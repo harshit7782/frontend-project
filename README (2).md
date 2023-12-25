@@ -55,7 +55,7 @@ To host this project on Windows, follow these steps:
 - Thorough documentation, including comments where necessary.
 
 ### Version Control and Hosting
-- Hosted on [GitHub](<repository_link>).
+- Hosted on [GitHub](https://github.com/harshit7782/frontend-project.git).
 
 ## Submission
 Submit your assignment by sharing the GitHub repository link.
