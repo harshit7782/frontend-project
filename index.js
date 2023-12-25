@@ -1,32 +1,4 @@
-// Gallery Image Slider
-// let currentImageIndex = 0;
-// const totalImages = document.querySelectorAll(".image-gallery img").length;
-// const nextButton = document.getElementById("nextButton");
-// const prevButton = document.getElementById("prevButton");
 
-// nextButton.addEventListener("click", showNextImage);
-// prevButton.addEventListener("click", showPrevImage);
-
-// function showNextImage() {
-//   currentImageIndex = (currentImageIndex + 1) % totalImages;
-//   updateGallery();
-// }
-
-// function showPrevImage() {
-//   currentImageIndex = (currentImageIndex - 1 + totalImages) % totalImages;
-//   updateGallery();
-// }
-
-// function updateGallery() {
-//   const images = document.querySelectorAll(".image-gallery img");
-//   images.forEach((image, index) => {
-//     if (index === currentImageIndex) {
-//       image.style.opacity = 1;
-//     } else {
-//       image.style.opacity = 0;
-//     }
-//   });
-// }
 
 console.log("first");
 
